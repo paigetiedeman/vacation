@@ -1,0 +1,37 @@
+p {
+  font-size: 16px;
+}
+
+h3 {
+  text-align: center;
+  text-decoration-line: underline;
+}
+
+h5 {
+  color:cornflowerblue;
+  font-style: italic;
+}
+
+.row {
+  background:rgb(255, 206, 214);
+  padding: 20px;
+  margin: 15px;
+}
+
+.blockquote {
+  border: 2px solid linen;
+  padding: 10px;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  width: 50%;
+  box-sizing: border-box;
+}
+
+.centered.image {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+}
